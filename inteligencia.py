@@ -1,7 +1,8 @@
 import streamlit as st
 
-st.write('# escreve algo aíjorge')
+st.write('# escreve algo aí jorge')
 mensagem = st.chat_input("Escreva sua mensagem aqui")
 
 
 print(mensagem)
+
